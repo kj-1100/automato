@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/automato/static/css/main.334c1bb3.css",
+    "main.js": "/automato/static/js/main.f0d6bf6f.js",
+    "static/js/787.8eb42f38.chunk.js": "/automato/static/js/787.8eb42f38.chunk.js",
+    "index.html": "/automato/index.html",
+    "main.334c1bb3.css.map": "/automato/static/css/main.334c1bb3.css.map",
+    "main.f0d6bf6f.js.map": "/automato/static/js/main.f0d6bf6f.js.map",
+    "787.8eb42f38.chunk.js.map": "/automato/static/js/787.8eb42f38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334c1bb3.css",
+    "static/js/main.f0d6bf6f.js"
+  ]
+}
